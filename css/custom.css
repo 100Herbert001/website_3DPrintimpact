@@ -1,0 +1,83 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url('../images/pattern.png');
+  background-repeat: repeat;
+}
+
+.bg-primary {
+  background-color: #0b43db !important;
+}
+
+/* cards */
+
+.card-footer {
+  background: transparent;
+  border-top: 0px;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 40rem;
+    max-width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+ 
+  .welcome-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../images/4466C1DF-1145-4FC5-8BE9-33C8663683B9.jpg');
+  }
+
+  .welcome-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../images/carousel_Kategorien.JPEG');
+  }
+
+  .welcome-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../images/Drucker_Aufbau/IMG_1317.JPEG');
+  }
+
+/* Jumbotron */
+
+.jumbotron-cheese-cakes {
+  background: url('../images/4466C1DF-1145-4FC5-8BE9-33C8663683B9.jpg') no-repeat fixed;
+}
+
+.jumbotron-all-pies {
+  background: url('../images/carousel_Kategorien.JPEG') no-repeat fixed;
+}
+
+.jumbotron-fruit-pies {
+  background: url('../images/IMG_0872.JPEG') no-repeat fixed;
+}
+
+.jumbotron-seasonal-pies {
+  background: url('../images/IMG_1035.JPEG') no-repeat fixed;
+}
+
+.jumbotron-other {
+  background: url('../images/20210209_162446-scaled.jpg') no-repeat fixed;
+}
+
+.jumbotron-detail-apple-pie {
+  background: url('../images/Produktbilder/IMG_0003.JPEG') no-repeat fixed;
+}
+
+.jumbotron {
+  box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.1);
+  height: 50vh;
+  background-size: cover;
+}
