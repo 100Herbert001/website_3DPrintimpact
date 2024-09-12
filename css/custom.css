@@ -47,37 +47,5 @@ body {
 
   .welcome-carousel-image3{
     box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
-    background-image:url('../images/Drucker_Aufbau/IMG_1317.JPEG');
+    background-image:url('../Produktbilder/IMG_0302.JPEG');
   }
-
-/* Jumbotron */
-
-.jumbotron-cheese-cakes {
-  background: url('../images/4466C1DF-1145-4FC5-8BE9-33C8663683B9.jpg') no-repeat fixed;
-}
-
-.jumbotron-all-pies {
-  background: url('../images/carousel_Kategorien.JPEG') no-repeat fixed;
-}
-
-.jumbotron-fruit-pies {
-  background: url('../images/IMG_0872.JPEG') no-repeat fixed;
-}
-
-.jumbotron-seasonal-pies {
-  background: url('../images/IMG_1035.JPEG') no-repeat fixed;
-}
-
-.jumbotron-other {
-  background: url('../images/20210209_162446-scaled.jpg') no-repeat fixed;
-}
-
-.jumbotron-detail-apple-pie {
-  background: url('../images/Produktbilder/IMG_0003.JPEG') no-repeat fixed;
-}
-
-.jumbotron {
-  box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.1);
-  height: 50vh;
-  background-size: cover;
-}
